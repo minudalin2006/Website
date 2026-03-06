@@ -1,0 +1,137 @@
+body{
+background:red;
+}
+body{
+    background: #fdf6f0;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.container{
+    background: white;
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.1);
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: #d6336c;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    color: #d6336c;
+}
+h3{
+   font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: #555;
+}
+p{
+    font-size: 18px;
+    color: #555;
+}
+
+button{
+    margin-top: 25px;
+    background: #ff8fab;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover{
+    background: #ff5d8f;
+}
+.photo-frame{
+    margin-top: 30px;
+}
+
+.photo-frame img{
+    width: 250px;
+    border: 10px solid white;
+    box-shadow: 0px 8px 20px rgba(0,0,0,0.2);
+    transform: rotate(-3deg);
+}
+
+.caption{
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+    margin-top: 10px;
+    color: #d6336c;
+}
+form{
+    margin-top: 30px;
+}
+
+form p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+    color: #d6336c;
+}
+
+input[type="text"]{
+    padding: 10px;
+    width: 70%;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    margin-top: 8px;
+    font-family: 'Poppins', sans-serif;
+}
+
+label{
+    font-size: 16px;
+    color: #444;
+}
+
+input[type="radio"]{
+    margin-right: 8px;
+}
+
+button{
+    margin-top: 25px;
+    background: #ff8fab;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover{
+    background: #ff5d8f;
+}
+body{
+background: linear-gradient(135deg,#ffd6e7,#fff0f6,#ffe4ec);
+font-family: 'Poppins', sans-serif;
+text-align:center;
+}
+h1{
+font-family:'Dancing Script', cursive;
+font-size:40px;
+color:#ff4d88;
+}
+button{
+background:#ff4d88;
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:20px;
+font-size:16px;
+cursor:pointer;
+}
+
+button:hover{
+background:#ff85a2;
+}
